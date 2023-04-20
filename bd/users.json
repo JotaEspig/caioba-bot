@@ -1,0 +1,47 @@
+{
+    "720686657950711909": {
+        "nickname": "JotaEspig",
+        "desc": "Uma batata ambulante",
+        "avatar": "https://cdn.discordapp.com/avatars/720686657950711909/6fda15865e1aeed96ee1b3d4e9098391.webp?size=1024",
+        "gender": "Male",
+        "age": {
+            "age": 16,
+            "birth": "09/12/2004"
+        },
+        "marital status": {
+            "status": "Single",
+            "partner": null,
+            "requests": []
+        }
+    },
+    "743498783312314499": {
+        "nickname": "RONALDINHO",
+        "desc": "*Use `cb!set_desc <desc>`*",
+        "avatar": "https://cdn.discordapp.com/avatars/743498783312314499/442b8e31d7d93f0d52336d0cde3851e9.webp?size=1024",
+        "gender": "Unknown",
+        "age": {
+            "age": "Unknown",
+            "birth": null
+        },
+        "marital status": {
+            "status": "Single",
+            "partner": null,
+            "requests": []
+        }
+    },
+    "477570006952181761": {
+        "nickname": "Squidly_Streams <3",
+        "desc": "*Use `cb!set_desc <desc>`*",
+        "avatar": "https://cdn.discordapp.com/avatars/477570006952181761/121097416e7361a74177b067d6da07a7.webp?size=1024",
+        "gender": "Unknown",
+        "age": {
+            "age": "Unknown",
+            "birth": null
+        },
+        "marital status": {
+            "status": "Single",
+            "partner": null,
+            "requests": []
+        }
+    }
+}
